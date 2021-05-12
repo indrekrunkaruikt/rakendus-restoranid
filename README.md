@@ -1,4 +1,4 @@
-# rakendus-restoranid
+# opinion-ate
 
 ## Project setup
 ```
